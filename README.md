@@ -5,7 +5,7 @@ Connect with me!
 
 ### Demo Screeshots
   <a href="#" target="_blank">
-      <img src="https://i.ibb.co/NxgryH9/github-banner.jpg" alt="Project Banner">
+      <img src="https://i.ibb.co/rvg0X95/github-banner.jpg" alt="Project Banner">
     </a>
 
 ## Prerequisites
